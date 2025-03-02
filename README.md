@@ -3,10 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Saiful+Islam....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-</p>
-
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/saiful-islam-7133751b0/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/saif.ul_/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
@@ -18,6 +14,10 @@
   Hi, I'm Saiful Islam, a Computer Science graduate passionate about AI, Machine Learning, Data Science, and Blockchain Development.
   <br>
   <br>
+  <p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+</p>
+
   🎓 Graduated from Daffodil International University, Department of Computer Science and Engineering
   <br>
   💻 Enthusiastic about coding, data analysis, and software development
