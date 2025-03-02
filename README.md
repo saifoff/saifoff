@@ -12,24 +12,17 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm Saiful Islam, a Computer Science graduate passionate about AI, Machine Learning, Data Science, and Blockchain Development.
   <br>
   <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
+  🎓 Graduated from Daffodil International University, Department of Computer Science and Engineering
   <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
+  💻 Enthusiastic about coding, data analysis, and software development
   <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
+  📚 Currently exploring AI, ML, and Data Analysis
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  💬 Ask me anything <a href="https://github.com/saifoff" title="Issues">Here</a>
   <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
 </p>
 
 ### 🛠️ Languages and Tools:
