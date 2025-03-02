@@ -11,13 +11,13 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Saiful Islam, a Computer Science graduate passionate about AI, Machine Learning, Data Science, and Blockchain Development.
-  <br>
-  <br>
-  <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </p>
 
+<p align="center">
+  Hi, I'm Saiful Islam, a Computer Science graduate passionate about AI, Machine Learning, Data Science, and Blockchain Development.
+  <br>
+  <br>
   🎓 Graduated from Daffodil International University, Department of Computer Science and Engineering
   <br>
   💻 Enthusiastic about coding, data analysis, and software development
