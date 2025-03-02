@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Saiful+Islam....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-
+<img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/saiful-islam-7133751b0/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/saif.ul_/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
