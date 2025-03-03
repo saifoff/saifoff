@@ -71,8 +71,8 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/saifoff">
-      <img align="left" width=390  src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifoff&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+    <a href="https://github.com/saifoff" title="Go to GitHub">
+      <img  align="left" width=390  src="https://streak-stats.demolab.com/?user=saifoff&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak Stats" />
     </a>
     <a href="https://github.com/saifoff" title="Go to GitHub">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=saifoff&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
@@ -80,8 +80,8 @@
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/saifoff" title="Go to GitHub">
-      <img  height=200 align="center" src="https://streak-stats.demolab.com/?user=saifoff&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak Stats" />
+    <a href="https://github.com/saifoff">
+      <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifoff&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
     </a>
   </div>
   <br>
