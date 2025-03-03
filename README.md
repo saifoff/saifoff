@@ -3,14 +3,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Saiful+Islam...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=saifoff&label=Profile%20views&color=0e75b6&style=flat" alt="saifoff" /> 
-</p>
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/saiful-islam-7133751b0/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/saif.ul_/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
   <code><a href="https://www.facebook.com/saif.6053/" title="Facebook Profile"><img width="26" src="images/facebook.svg"> Facebook</a></code>
   <code><a href="https://www.researchgate.net/profile/Saiful-Islam-147" title="ResearchGate Profile"><img width="22" src="images/researchgate.svg"> ResearchGate</a></code>
+  <p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=saifoff&label=Profile%20views&color=0e75b6&style=flat" alt="saifoff" /> 
+ </p>
 </h5>
 <br>
 <p align="center">
