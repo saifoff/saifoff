@@ -8,7 +8,7 @@
   <code><a href="https://www.instagram.com/saif.ul_/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
   <code><a href="https://www.facebook.com/saif.6053/" title="Facebook Profile"><img width="26" src="images/facebook.svg"> Facebook</a></code>
   <code><a href="https://www.researchgate.net/profile/Saiful-Islam-147" title="ResearchGate Profile"><img width="22" src="images/researchgate.svg"> ResearchGate</a></code>
-  <img src="https://komarev.com/ghpvc/?username=saifoff&label=Profile%20views&color=0e75b6&style=flat" alt="saifoff" /> 
+  <img align = "right" src="https://komarev.com/ghpvc/?username=saifoff&label=Profile%20views&color=0e75b6&style=flat" alt="saifoff" /> 
 </h5>
 <br>
 <p align="center">
