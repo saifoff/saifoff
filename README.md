@@ -25,7 +25,7 @@
   <br>
   📚 Currently exploring AI, ML, and Data Analysis
   <br>
-  💬 Ask me anything <a href="https://github.com/saifoff" title="Issues">Here</a>
+  💬 Ask me anything <a href="https://www.linkedin.com/in/saiful-islam-7133751b0/" title="Issues">Here</a>
   <br>
 </p>
 
